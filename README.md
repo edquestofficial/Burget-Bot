@@ -28,15 +28,15 @@ Welcome to the Burger Bot repository! This project is a chatbot designed to assi
    
    `cd burger-bot`
 
-2. Install the required packages:
-   
-   `pip install -r requirements.txt`
-
-3. Virtual environment:
+2. Virtual environment:
    
    `m venv env   `
    
    `venv\Scripts\activate  `
+
+3. Install the required packages:
+   
+   `pip install -r requirements.txt`
 
 4. Create a .env file in the root directory of the project and define your Gemini API key:
 
