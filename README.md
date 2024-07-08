@@ -53,4 +53,4 @@ To start the bot, run the following command:
 Watch the demo video to see Burger bot in action:
 
 <h2> Feedback/ Query Form </h2>
-share any query or feedback in this google form: [Feedback form](https://forms.gle/pBDiyPEXf16hXxpU9)
+share any query or feedback in this google form: [Feedback Form](https://forms.gle/pBDiyPEXf16hXxpU9)
