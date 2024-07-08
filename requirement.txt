@@ -1,3 +1,8 @@
-gradio==4.37.2
-python-dotenv==1.0.1
-google-generativeai==0.7.1
+# Update Gradio version with Poetry
+poetry add gradio@3.1.0
+
+# Commit and push changes
+git add pyproject.toml
+git commit -m "Update Gradio to version 3.1.0"
+git push origin main
+
