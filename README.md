@@ -1,6 +1,6 @@
 <h1>Burger Bot 🍔🤖</h1>
 
-![image](https://github.com/Geetika-Behl/Burger-Bot/assets/142812594/f61f63d0-d0d3-492e-b781-388fcbdcac96)
+![image](https://github.com/edquestofficial/Burget-Bot/blob/main/images/Architectural%20diagram.jpeg)
 
 Welcome to the Burger Bot repository! This project is a chatbot designed to assist with ordering burgers. The bot is built using Gradio and the Gemini API, and includes a Colab file with the code.
 
@@ -30,9 +30,10 @@ Welcome to the Burger Bot repository! This project is a chatbot designed to assi
 
 2. Virtual environment:
    
-   `m venv env   `
+   `m venv env  `
    
-   `venv\Scripts\activate  `
+  Windows :  `venv\Scripts\activate  `
+  Mac\Linux: `source myenv/bin/activate` 
 
 3. Install the required packages:
    
@@ -52,5 +53,15 @@ To start the bot, run the following command:
 <h2> Demo Video </h2>
 Watch the demo video to see Burger bot in action:
 
+<h2>Demo View</h2>
+
+![image](https://github.com/edquestofficial/Burget-Bot/blob/main/images/demo1.jpeg)
+
+![image](https://github.com/edquestofficial/Burget-Bot/blob/main/images/demo%202.jpeg)
+
+![image](https://github.com/edquestofficial/Burget-Bot/blob/main/images/demo3.jpeg)
+
+
 <h2> Feedback/ Query Form </h2>
-share any query or feedback in this google form: [Feedback Form](https://forms.gle/pBDiyPEXf16hXxpU9)
+
+share any query or feedback in this google form: [Feedback Form](https://forms.gle/EVLTwUMsdtiidKkR9)
