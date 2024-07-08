@@ -1,10 +1,12 @@
 import google.generativeai as ai
 import gradio as gr
 import util as ut
+import os
+from dotenv import load_dotenv
 
-GOOGLE_API_KEY = 'AIzaSyAidqIAZXrcjkb00FyJZSg7syVf5eSqz_U'
+
 # Configure api_key
-ai.configure(api_key=GOOGLE_API_KEY)
+ai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 # Function to get a response from the AI model based on the provided prompt
 def get_response(prompt):
