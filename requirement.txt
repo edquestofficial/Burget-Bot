@@ -1,3 +1,4 @@
-gradio
-python-dotenv
-google-generativeai
+pip install-r
+gradio==4.37.2
+python-dotenv==1.0.1
+google-generativeai==0.7.1
