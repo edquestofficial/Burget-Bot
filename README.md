@@ -53,6 +53,9 @@ To start the bot, run the following command:
 <h2> Demo Video </h2>
 Watch the demo video to see Burger bot in action:
 
+![Demo](https://github.com/edquestofficial/Burget-Bot/blob/main/demo/demo.mp4)
+
+   
 <h2>Demo View</h2>
 
 ![image](https://github.com/edquestofficial/Burget-Bot/blob/main/images/demo1.jpeg)
