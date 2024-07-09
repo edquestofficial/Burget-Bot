@@ -32,8 +32,9 @@ Welcome to the Burger Bot repository! This project is a chatbot designed to assi
    
    `m venv env  `
    
-  Windows :  `venv\Scripts\activate  `
-  Mac\Linux: `source myenv/bin/activate` 
+  Windows :    `venv\Scripts\activate  `
+  
+  Mac\Linux:   `source myenv/bin/activate` 
 
 3. Install the required packages:
    
