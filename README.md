@@ -58,11 +58,11 @@ Watch the demo video to see Burger bot in action:
    
 <h2>Demo View</h2>
 
-![image](https://github.com/edquestofficial/Burget-Bot/blob/main/images/demo1.jpeg)
+![image](https://github.com/edquestofficial/Burget-Bot/blob/main/images/1_demo.jpeg)
 
-![image](https://github.com/edquestofficial/Burget-Bot/blob/main/images/demo%202.jpeg)
+![image](https://github.com/edquestofficial/Burget-Bot/blob/main/images/2_demo.jpeg)
 
-![image](https://github.com/edquestofficial/Burget-Bot/blob/main/images/demo3.jpeg)
+![image](https://github.com/edquestofficial/Burget-Bot/blob/main/images/3_demo.jpeg)
 
 
 <h2> Feedback/ Query Form </h2>
