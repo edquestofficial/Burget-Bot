@@ -24,7 +24,7 @@ Welcome to the Burger Bot repository! This project is a chatbot designed to assi
 
 1. Clone the repository:
 
-   `git clone `
+   `git clone https://github.com/edquestofficial/Burget-Bot `
    
    `cd burger-bot`
 
