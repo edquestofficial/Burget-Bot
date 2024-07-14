@@ -54,7 +54,7 @@ To start the bot, run the following command:
 <h2> Demo Video </h2>
 Watch the demo video to see Burger bot in action:
 
-[![Watch the video](images/thumbnail.png)](https://www.youtube.com/watch?v=EIn-j1yIkgA)
+[![Watch the video](images/thumbnail.jpg)](https://www.youtube.com/watch?v=EIn-j1yIkgA)
    
 <h2>Demo View</h2>
 
