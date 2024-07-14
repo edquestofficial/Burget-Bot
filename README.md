@@ -1,7 +1,5 @@
 <h1>Burger Bot 🍔🤖</h1>
 
-![image](https://github.com/edquestofficial/Burget-Bot/blob/main/images/Architectural%20diagram.jpeg)
-
 Welcome to the Burger Bot repository! This project is a chatbot designed to assist with ordering burgers. The bot is built using Gradio and the Gemini API, and includes a Colab file with the code.
 
 <h2>Features</h2>
@@ -17,6 +15,10 @@ Welcome to the Burger Bot repository! This project is a chatbot designed to assi
   2. Gemini
   3. Gradio
   4. Colab
+
+<h2>High level architecture diagram</h2>
+![image](https://github.com/edquestofficial/Burget-Bot/blob/main/images/Architectural%20diagram.jpeg)
+
 
 <h1> Getting Started </h1>
 
