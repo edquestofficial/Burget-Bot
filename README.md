@@ -17,7 +17,7 @@ Welcome to the Burger Bot repository! This project is a chatbot designed to assi
   4. Colab
 
 <h2>High level architecture diagram</h2>
-![High level architecture diagram](images/Architecturaldiagram.jpeg)
+![image](https://github.com/edquestofficial/Burget-Bot/blob/main/images/Architecturaldiagram.jpeg)
 
 
 <h1> Getting Started </h1>
