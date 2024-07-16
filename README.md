@@ -33,7 +33,7 @@ Welcome to the Burger Bot repository! This project is a chatbot designed to assi
 
 2. Virtual environment:
    
-   `python -m venv env  `
+   `python -m venv venv  `
    
   Windows :    `venv\Scripts\activate  `
   
