@@ -8,6 +8,9 @@ Welcome to the Burger Bot repository! This project is a chatbot designed to assi
  <img src="http://img.youtube.com/vi/EIn-j1yIkgA/mqdefault.jpg" alt="Watch the Demo" width="240" height="180" border="10" />
 </a>
 
+
+[![Watch the Demo](http://img.youtube.com/vi/EIn-j1yIkgA/mqdefault.jpg)](http://www.youtube.com/watch?v=EIn-j1yIkgA)
+
 <h2>Features</h2>
 
 * User-friendly Interface: Easy-to-use interface powered by Gradio.
