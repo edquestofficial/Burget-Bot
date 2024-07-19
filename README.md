@@ -2,9 +2,11 @@
 
 Welcome to the Burger Bot repository! This project is a chatbot designed to assist with ordering burgers. The bot is built using Gradio and the Gemini API, and includes a Colab file with the code.
 
-<h2>Demo</h2>
+<h2> Demo Video </h2>
+Watch the demo video to see Burger bot in action:
 
-[![Watch the Demo](http://img.youtube.com/vi/EIn-j1yIkgA/mqdefault.jpg)](http://www.youtube.com/watch?v=EIn-j1yIkgA)
+[![Watch the video](images/thumbnail.jpg)](https://www.youtube.com/watch?v=EIn-j1yIkgA)
+
 
 <h2>Features</h2>
 
@@ -57,11 +59,6 @@ Welcome to the Burger Bot repository! This project is a chatbot designed to assi
 To start the bot, run the following command:
 
 `python app.py`
-
-<h2> Demo Video </h2>
-Watch the demo video to see Burger bot in action:
-
-[![Watch the video](images/thumbnail.jpg)](https://www.youtube.com/watch?v=EIn-j1yIkgA)
    
 <h2>Demo View</h2>
 
