@@ -3,12 +3,6 @@
 Welcome to the Burger Bot repository! This project is a chatbot designed to assist with ordering burgers. The bot is built using Gradio and the Gemini API, and includes a Colab file with the code.
 
 <h2>Demo</h2>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=EIn-j1yIkgA" target="_blank">
- <img src="http://img.youtube.com/vi/EIn-j1yIkgA/mqdefault.jpg" alt="Watch the Demo" width="240" height="180" border="10" />
-</a>
-
-
 [![Watch the Demo](http://img.youtube.com/vi/EIn-j1yIkgA/mqdefault.jpg)](http://www.youtube.com/watch?v=EIn-j1yIkgA)
 
 <h2>Features</h2>
